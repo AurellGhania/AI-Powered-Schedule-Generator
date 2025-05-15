@@ -1,16 +1,11 @@
-# schedule_generator
+# AI-Powered Schedule Generator
 
-A new Flutter project.
+Sebuah aplikasi cerdas yang membantu siswa menyusun jadwal belajar secara otomatis menggunakan teknologi AI dari Gemini. Cukup masukkan daftar tugas, durasi, dan deadline—AI akan mengatur prioritas dan menghasilkan jadwal yang efisien dari pagi hingga malam. Solusi ideal untuk manajemen waktu yang lebih terstruktur dan bebas stres.
 
-## Getting Started
+# Key Features:
+- Menggunakan Gemini API dari Google untuk memproses dan menyusun jadwal.
+- Dibangun dengan Flutter agar bisa diakses lintas platform.
+- Data tugas dikirim sebagai prompt ke AI, yang kemudian membalas dengan jadwal terstruktur.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+  
+![Uploading Aurell-Mockup-Schedule-Generator.png…]()
