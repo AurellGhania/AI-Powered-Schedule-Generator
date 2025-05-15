@@ -7,5 +7,6 @@ Sebuah aplikasi cerdas yang membantu siswa menyusun jadwal belajar secara otomat
 - Dibangun dengan Flutter agar bisa diakses lintas platform.
 - Data tugas dikirim sebagai prompt ke AI, yang kemudian membalas dengan jadwal terstruktur.
 
+
   
-![Uploading Aurell-Mockup-Schedule-Generator.png…]()
+![Aurell-Mockup-Schedule-Generator](https://github.com/user-attachments/assets/7a4bbc8c-c3a1-4edd-b0a5-75bf9fa26174)
